@@ -1,0 +1,6 @@
+{
+  "name": "ESP32 RFID Attendance Dashboard",
+  "description": "Real-time IoT attendance monitoring system powered by ESP32, RC522 RFID reader, and Google Sheets database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
